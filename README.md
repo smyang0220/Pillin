@@ -82,10 +82,10 @@
 [기능 명세서 바로가기](https://bonkri.notion.site/9d195c3928794c568cdd1f5841666a24)
 
 ### ERD
-![ERD](../ImageFile/ERD.png)
+![ERD](ImageFile/ERD.png)
 
 ### 아키텍처
-![architecture](../ImageFile/architecture.png)
+![architecture](ImageFile/architecture.png)
 
 ### UCC
 [UCC 바로가기](https://bonkri.notion.site/Pillin-14ca2a8ea28447b1998caf2f3558d47b)
